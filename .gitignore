@@ -1,0 +1,14 @@
+/venv1/
+/venv/
+/dist/
+/build/
+/main.spec
+/.idea/discord.xml
+/.idea/encodings.xml
+/.idea/.gitignore
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/pythonProject.iml
+/.idea/vcs.xml
